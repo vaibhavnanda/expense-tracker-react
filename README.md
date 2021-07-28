@@ -1,3 +1,7 @@
+# About the project
+
+This project is a single page web app to keep track of the expenses. The data is not being stored in a database. As a result, when the page is refreshed, data is lost. The project is an attempt to get familiar with ReactJS.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
